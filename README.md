@@ -12,7 +12,7 @@
 ## Resources
 
 - [Reference](https://pkg.go.dev/github.com/1ch0/nacos-client)
-- [Examples](https://pkg.go.dev/github.com/1ch0/nacos-client#pkg-examples)
+- [Examples](https://pkg.go.dev/github.com/1ch0/nacos-client#pkg-examples)1
 
 ## Features
 
